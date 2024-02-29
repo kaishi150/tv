@@ -20,6 +20,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    }, {
+      "key": "应用商店",
+      "name": "开始｜应用市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "http://我不是.摸鱼儿.top/0221/lib/json/moyuyysc.json",
+      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/yingyong.php"
     },
     {
       "key": "csp_KungFu404",
