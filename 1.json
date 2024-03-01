@@ -21,14 +21,14 @@
       "quickSearch": 0,
       "filterable": 0
     }, {
-      "key": "应用商店",
-      "name": "开始｜应用市场",
+      "key": "應用商店",
+      "name": "應用商店",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
       "ext": "./lib/market.json"
-      },
+    },
     {
       "key": "csp_KungFu404",
       "name": "🇹┃阿里云设置┃",
