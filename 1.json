@@ -27,7 +27,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://www.123pan.com/s/bEBqVv-TAsjv.html"
+      "ext": "./lib/market.json"
       },
     {
       "key": "csp_KungFu404",
