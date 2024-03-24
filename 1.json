@@ -28,6 +28,57 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://www.123pan.com/s/bEBqVv-TAsjv.html"
+    },{
+      "key": "Alist",
+      "name": "🌟小雅┃高清",
+      "type": 3,
+      "api": "https://15068362650xiaoya.tocmcc.cn:443/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": [
+        {
+          "name": "丫仙女",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/",
+          "search": true
+        },
+        {
+          "name": "每日更新",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/每日更新"
+        },
+        {
+          "name": "电影",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/电影"
+        },
+        {
+          "name": "电视剧",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/电视剧"
+        },
+        {
+          "name": "综艺",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/综艺"
+        },
+        {
+          "name": "纪录片",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/纪录片"
+        },
+        {
+          "name": "动漫",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/动漫"
+        },
+        {
+          "name": "儿童",
+          "server": "https://15068362650xiaoya.tocmcc.cn:443/",
+          "startPage": "/动漫/儿童"
+        }
+      ]
     },
     {
       "key": "csp_KungFu404",
