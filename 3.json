@@ -891,7 +891,7 @@
     {
       "name": "我的私用",
       "type": 0,
-      "url": "https://15068362650xiaoya.tocmcc.cn:443/tvbox/iptv.m3u",
+      "url": "./lib/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
