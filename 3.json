@@ -143,6 +143,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },{
+      "key": "高清",
+      "name": "高清电影",
+      "type": 0,
+      "api": "https://api.yinwoapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "白嫖",
